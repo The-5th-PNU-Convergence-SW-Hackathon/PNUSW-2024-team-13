@@ -68,7 +68,7 @@
 <img width="600px" alt="시스템 구성도" src="https://github.com/user-attachments/assets/37d3e48c-bf96-41b0-884b-0bad6fcd801b">
 <br/>
 
-#### 2.3. 사용기술
+#### 2.2. 사용기술
 | 이름                  | 버전    |
 |:---------------------:|:-------:|
 | Python                | 3.8.0   |
