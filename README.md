@@ -259,7 +259,6 @@ $ npm run dev
 ](https://docs.google.com/document/d/1UTN5kixtRh9GRrV2aLkkBU4yX_5XfR97b_t-PQm0Aqs/edit)
 
 ### 참고 문헌 및 자료
-<br/>
 1. 이소미,”또 다시 터진 IP 카메라 해킹 영상 유출 사태, 그간 어떤 사건 있었나“,보안뉴스,2024.01.02, [https://m.boannews.com/html/detail.html?idx=125345](https://m.boannews.com/html/detail.html?idx=125345)
 2. 김영애,”중국 해커, 국내 IP 카메라 해킹.. 4,500개 사생활 영상, 텔레그램에노출“,보안뉴스,2023.12.30, [https://m.boannews.com/html/detail.html?idx=125342](https://m.boannews.com/html/detail.html?idx=125342)
 3. 이지운,”혼자 쓸쓸히 '고독사' 작년 3378명…50, 60대 남성이 절반“, 동아일보,2022,1215, [https://news.nate.com/view/20221215n00615](https://news.nate.com/view/20221215n00615)
