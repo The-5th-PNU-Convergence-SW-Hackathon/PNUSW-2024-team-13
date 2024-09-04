@@ -65,7 +65,7 @@
 
 ### 2.상세설계
 #### 2.1. 시스템 구성도
-<img width="600px" alt="시스템 구성도" src="https://github.com/user-attachments/assets/ab97b877-0a6a-44dd-a1e1-a7c55bffaf7cc">
+<img width="600px" alt="시스템 구성도" src="https://github.com/user-attachments/assets/37d3e48c-bf96-41b0-884b-0bad6fcd801b">
 <br/>
 
 #### 2.3. 사용기술
