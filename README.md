@@ -264,9 +264,9 @@ $ npm run dev
 3. 이지운,”혼자 쓸쓸히 '고독사' 작년 3378명…50, 60대 남성이 절반“, 동아일보,2022,1215, [https://news.nate.com/view/20221215n00615](https://news.nate.com/view/20221215n00615)
 4. 김승직,”재택의료 환자 150만명 육박...인프라 없인 입원-사망 악순환 우려“,메디컬타임즈,2023,11,08, [www.medicaltimes.com/Main/News/NewsView.html?ID=1156113](www.medicaltimes.com/Main/News/NewsView.html?ID=1156113)
 5. 사용 dataset
-	-[https://sc3d.imar.ro/humansc3d](https://sc3d.imar.ro/humansc3d)
-	-[https://ci3d.imar.ro/chi3d](https://ci3d.imar.ro/chi3d)
-	-[https://paperswithcode.com/dataset/human3-6m](https://paperswithcode.com/dataset/human3-6m)
+  1.[https://sc3d.imar.ro/humansc3d](https://sc3d.imar.ro/humansc3d)
+  2.[https://ci3d.imar.ro/chi3d](https://ci3d.imar.ro/chi3d)
+  3.[https://paperswithcode.com/dataset/human3-6m](https://paperswithcode.com/dataset/human3-6m)
 
 
 
