@@ -187,6 +187,7 @@
 2. 앱과 Gateway 통신 구현 방안
 - 정확도 향상위해 하나의 공간에 복수 GW 운용
 3. 적용 가능한 센서 예시
+ <img width="500px" height="300px" src="https://github.com/user-attachments/assets/277c9122-3217-4897-a155-1cfb691a5a7f">
 - 스마트 워치에 사용되는 맥박수 모니터 샌서 모듈 및 심박심장박동 센서
 
 
