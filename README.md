@@ -96,7 +96,7 @@
 - 시스템 플로우 차트
   > 설치부터 애플리케이션 사용까지의 흐름도를 보여줍니다.
   1. 클라이언트 측 플로우 차트
-  <img width="800px" alt="clientside" src="https://github.com/user-attachments/assets/6bb4e9d3-6f9e-4ab6-992f-a5a6ef1b94cb" />
+  <img width="800px" alt="clientside" src="https://github.com/user-attachments/assets/6bb4e9d3-6f9e-4ab6-992f-a5a6ef1b94cb" /><br>
   2. 애플리케이션 측 플로우 차트
   <img width="800px" alt="appside" src="https://github.com/user-attachments/assets/1a34bd08-7f98-45a9-88de-dd8e3bad3f84" />
 
