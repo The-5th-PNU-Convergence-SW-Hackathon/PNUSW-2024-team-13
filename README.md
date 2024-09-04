@@ -65,7 +65,7 @@
 
 ### 2.상세설계
 #### 2.1. 시스템 구성도
-<img width="600px" alt="시스템 구성도" src="https://github.com/user-attachments/assets/ab97b877-0a6a-44dd-a1e1-a7c55bffaf7c">
+<img width="600px" alt="시스템 구성도" src="https://github.com/user-attachments/assets/ab97b877-0a6a-44dd-a1e1-a7c55bffaf7cc">
 <br/>
 
 #### 2.3. 사용기술
@@ -89,8 +89,7 @@
 
 
 - 시스템 플로우 차트
-  > 코딩 역량강화 플랫폼의 로그인 부분만 작성했습니다. <br/>
-  > 테스크의 흐름에 따른 데이터 처리를 도식화하여 보여줍니다.
+  > 설치부터 애플리케이션 사용까지의 흐름도를 보여줍니다. 
   <img width="800px" alt="시스템 플로우 차트" src="https://github.com/user-attachments/assets/39f8ecdf-ce3b-4102-b318-e108a84ea77f" />
 
   
