@@ -1,4 +1,4 @@
-[### 1. 프로젝트 소개
+### 1. 프로젝트 소개
 #### 1.1. 개발배경 및 필요성
 <img width="500px" height="300px" src="https://github.com/user-attachments/assets/f28f8a12-7314-4dc7-b389-01ed07a50cf5"/>
 <img width="500px" height="300px" src="https://github.com/user-attachments/assets/0510c913-1802-4b4e-b951-13606a841f66"/>
