@@ -157,11 +157,15 @@
 
 #### 3.4. 디렉토리 구조
 ```
-├── build/                      # webpack 설정 파일
-├── config/                     # 프로젝트 설정 파일
-├── deplay/                     # 배포 설정 파일
-├── src/                        # 소스 코드
-│   ├── assets/                 # 이미지, 폰트 등의 정적 파일
+├── Modeling/			# modeling 파일
+│   ├── 모델링stl/             	# server 구동시 master page
+│   │   ├── camera1/           	# camera 1번 후보 modeling slicing file
+│   │   ├── camera2/           	# camera 2번 후보 modeling slicing file
+│   ├── 카메라1_cctv/          	# camera 1번 후보 modeling file
+│   ├── 카메라2_cam/            	# camera 2번 후보 modeling file
+├── Server File/               	# client측 서버 파일
+│   ├── templates/             	# server 구동시 master page
+├── docs/                    	# 배포 설정 파일
 │   ├── pages/                  # 화면에 나타나는 페이지
 │   │   ├── page1/              # 페이지1
 │   │   ├── page2/              # 페이지2
