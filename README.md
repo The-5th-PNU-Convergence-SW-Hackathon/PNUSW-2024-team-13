@@ -187,6 +187,7 @@
  <img width="300px" height="150px" src="https://github.com/user-attachments/assets/5a900cc7-9350-430d-87b4-dd3abf3ae7a8">
 
 
+
 - MPJPE에서 140~200mm의 값 / PCK@0.5에서 Accuracy가 60~70%대의 값을 보임 => 성능상 문제 많음, 모델 채용 불가
 - Tensorflow의 PoseNet 사용
 - 상대적으로 저렴하지만 처리속도가 빠른 RasberryPi 이용
