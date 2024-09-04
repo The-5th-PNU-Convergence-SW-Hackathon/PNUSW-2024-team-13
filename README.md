@@ -189,7 +189,7 @@
 
 
 - MPJPE에서 140-200mm의 값, PCK@0.5에서 Accuracy가 60-70%대의 값을 보임 => 성능상 문제 많음, 모델 채용 불가
-- Tensorflow의 PoseNet 사용
+- 안정적인 Tensorflow의 PoseNet 사용
 - 상대적으로 저렴하지만 처리속도가 빠른 RasberryPi 이용
 
 2. 앱과 Gateway 통신 구현 방안
