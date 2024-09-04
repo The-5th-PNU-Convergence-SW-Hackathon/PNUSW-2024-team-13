@@ -177,7 +177,7 @@ $ npm run dev
 <br/>
 
 ### 6. 팀 소개
-| MEMBER1 | MEMBER2 | MEMBER3 |
+| 하규승 | 이수빈 | 김효준 |
 |:-------:|:-------:|:-------:|
 |<img width="100px" alt="MEMBER1" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/f5b5df2a-e174-437d-86b2-a5a23d9ee75d" /> | <img width="100px" alt="MEMBER2" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/fe4e8910-4565-4f3f-9bd1-f135e74cb39d" /> | <img width="100px" alt="MEMBER3" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/675d8471-19b9-4abc-bf8a-be426989b318" /> |
 | member1@pusan.ac.kr | member2@gmail.com | member3@naver.com |
@@ -188,10 +188,10 @@ $ npm run dev
 
 
 ### 7. 해커톤 참여 후기
-- MEMBER1
-  > 작성하세요.
-- MEMBER2
+- 하규승
   > 작성하세요.
 - 이수빈
+  > 작성하세요.
+- 김효준
   > 재밌었다.
 <br/>
