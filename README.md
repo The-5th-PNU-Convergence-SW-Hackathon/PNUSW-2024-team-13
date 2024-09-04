@@ -188,7 +188,9 @@
 - 정확도 향상위해 하나의 공간에 복수 GW 운용
 3. 적용 가능한 센서 예시
  <img width="150px" height="150px" src="https://github.com/user-attachments/assets/277c9122-3217-4897-a155-1cfb691a5a7f">
- <img width="150px" height="150px" src="https://github.com/user-attachments/assets/7d372254-a175-444e-a014-64ba4963f3cc">    
+ <img width="150px" height="150px" src="https://github.com/user-attachments/assets/7d372254-a175-444e-a014-64ba4963f3cc">
+
+
  - 맥박수 모니터 센서 모듈 및 심박심장박동 센서
  - 웨어러블 압전 센서(혈압 센서) 등 스마트워치에 이용되는 센서와의 연동
 
