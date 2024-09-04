@@ -83,7 +83,7 @@
 - IA(Information Architecture)
   > 정보나 시스템의 구조를 도식화하여 보여줍니다. <br/>
   <img width="600px" alt="IA" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/07d842fe-fb73-4079-97a3-58b2495ff331" />
-
+  ![image](https://github.com/user-attachments/assets/ab97b877-0a6a-44dd-a1e1-a7c55bffaf7c)
 <br/>
 
 #### 3.2. 기능설명
