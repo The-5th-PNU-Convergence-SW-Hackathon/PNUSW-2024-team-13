@@ -160,7 +160,7 @@
 ├── Modeling/			# modeling 파일
 │   ├── 모델링stl/             	# server 구동시 master page
 │   │   ├── camera1/           	# camera 1번 후보 modeling slicing file
-│   │   ├── camera2/           	# camera 2번 후보 modeling slicing file
+│   │   ├── camera2/     	# camera 2번 후보 modeling slicing file
 │   ├── 카메라1_cctv/          	# camera 1번 후보 modeling file
 │   ├── 카메라2_cam/            	# camera 2번 후보 modeling file
 ├── Server File/               	# client측 서버 파일
