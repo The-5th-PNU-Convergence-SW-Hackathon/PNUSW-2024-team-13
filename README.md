@@ -184,6 +184,12 @@
 
 1. 가격과 정확도 두마리 토끼를 모두 잡는 건 쉽지 않으니 많은 고민 필요
  <img width="300px" height="150px" src="https://github.com/user-attachments/assets/829b4fd6-5aa6-440d-9182-d767685dda0b">
+ <img width="300px" height="150px" src="https://github.com/user-attachments/assets/5a900cc7-9350-430d-87b4-dd3abf3ae7a8">
+
+
+- MPJPE에서 140~200mm의 값 / PCK@0.5에서 Accuracy가 60~70%대의 값을 보임 => 성능상 문제 많음, 모델 채용 불가
+- Tensorflow의 PoseNet 사용
+- 상대적으로 저렴하지만 처리속도가 빠른 RasberryPi 이용
 
 2. 앱과 Gateway 통신 구현 방안
 - 정확도 향상위해 하나의 공간에 복수 GW 운용
