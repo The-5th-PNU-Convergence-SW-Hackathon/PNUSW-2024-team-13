@@ -1,7 +1,7 @@
 ### 1. 프로젝트 소개
 #### 1.1. 개발배경 및 필요성
-<img width="500px" height="200px" src="https://github.com/user-attachments/assets/f28f8a12-7314-4dc7-b389-01ed07a50cf5"/>
-<img width="500px" height="200px" src="https://github.com/user-attachments/assets/0510c913-1802-4b4e-b951-13606a841f66"/>
+<img width="500px" height="300px" src="https://github.com/user-attachments/assets/f28f8a12-7314-4dc7-b389-01ed07a50cf5"/>
+<img width="500px" height="300px" src="https://github.com/user-attachments/assets/0510c913-1802-4b4e-b951-13606a841f66"/>
 
 
 - 대한민국 65세 이상 고령층 가구 수가 2017년 7백만 명에서 2023년 9백만 명으로 증가하였다. 그중 1인 가구 수가 2017년 134만 명에서 2023년 199만 명으로 48.5% 증가하였으며 계속해서 늘어나는 추세이다. 특히, 부산은 고령인구 비중이 22.2%로 타 도시에 비해 상위권에 위치해있다.
