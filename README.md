@@ -80,7 +80,7 @@
   > 코딩 역량강화 플랫폼의 회원가입 부분만 작성했습니다. <br/>
   > 사용자의 행동 흐름을 도식화하여 보여줍니다.
   <img width="400px" alt="유저 플로우 차트" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/c8de7c98-efd8-4f64-a39a-720faabccd78" />
-  <img width="400px" alt="유저 플로우 차트" src="https://github.com/user-attachments/assets/39f8ecdf-ce3b-4102-b318-e108a84ea77f" />
+  <img width="800px" alt="유저 플로우 차트" src="https://github.com/user-attachments/assets/39f8ecdf-ce3b-4102-b318-e108a84ea77f" />
   
 
 - 테스크 플로우 차트
