@@ -76,11 +76,9 @@
 #### 2.2. 사용기술
 | 이름                  | 버전    |
 |:---------------------:|:-------:|
-| Python                | 3.8.0   |
-| Django                | 3.2.9   |
-| Django Rest Framework | 3.12.0  |
-| Node.js               | 16.16.0 |
-| Vue.js                | 2.5.13  |
+| Python		| 3.8.0   |
+| Kotlin		| 2.0.0   |
+| Tensorflow		| 2.17.0  |
 <br/>
 
 
