@@ -180,7 +180,7 @@
    FeedBack
    - 가격과 정확도 두마리 토끼를 모두 잡는 건 쉽지 않으니 많은 고민 필요
    - 앱과 Gateway 통신 구현 방안
-   - 적용 가능한 센서 예시
+   - 적용 가능한 센서 예시 추가
 
 1. 가격과 정확도 두마리 토끼를 모두 잡는 건 쉽지 않으니 많은 고민 필요
  <img width="300px" height="150px" src="https://github.com/user-attachments/assets/829b4fd6-5aa6-440d-9182-d767685dda0b">
