@@ -188,13 +188,9 @@
 - 위의 사용 기술 참고
 
 ```bash
-$ git clone https://github.com/test/test.git
-$ cd test/frontend
-$ npm i
-$ export NODE_ENV="development" # windows: set NODE_ENV=development
-$ npm run build:dll
-$ export TARGET="http://localhost:8000"  # windows: set NODE_ENV=http://localhost:8000
-$ npm run dev
+$ git clone https://github.com/The-5th-PNU-Convergence-SW-Hackathon/PNUSW-2024-team-13/
+$ cd Server File
+$ python run_server.py
 ```
 <br/>
 
