@@ -136,6 +136,7 @@
 │   ├── 카메라2_cam/            	# camera 2번 후보 modeling file
 ├── Server File/               	# client측 서버 파일
 │   ├── templates/             	# server 구동시 master page
+├── SkeCCTV/               	# CCTV application 소스
 ├── docs/                    	# 관련 문서
 ```
 <br/>
