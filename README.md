@@ -137,6 +137,7 @@
 ├── Server File/               	# client측 서버 파일
 │   ├── templates/             	# server 구동시 master page
 ├── SkeCCTV/               	# CCTV application 소스
+├── Testing Video/              # 시연 영상 원본
 ├── docs/                    	# 관련 문서
 ```
 <br/>
