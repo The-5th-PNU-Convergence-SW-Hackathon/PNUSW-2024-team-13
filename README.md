@@ -116,7 +116,6 @@
 
 
 #### 3.3. 기능명세서
-<img width="200px" alt="실시간 랭킹" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/97ad3fea-f90a-437a-b611-3fb8cd24070e" />
 
 |라벨|이름|상세|
 |:---:|:----------------------------:|:---|
