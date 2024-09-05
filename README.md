@@ -136,6 +136,7 @@
 │   ├── 카메라2_cam/            	# camera 2번 후보 modeling file
 ├── Server File/               	# client측 서버 파일
 │   ├── templates/             	# server 구동시 master page
+├── SkeCCTV/               	# CCTV application 소스
 ├── docs/                    	# 관련 문서
 ```
 <br/>
@@ -186,15 +187,12 @@
 **필요 패키지**
 - 위의 사용 기술 참고
 
-```bash
-$ git clone https://github.com/test/test.git
-$ cd test/frontend
-$ npm i
-$ export NODE_ENV="development" # windows: set NODE_ENV=development
-$ npm run build:dll
-$ export TARGET="http://localhost:8000"  # windows: set NODE_ENV=http://localhost:8000
-$ npm run dev
+```bash(gateway 측)
+$ git clone https://github.com/The-5th-PNU-Convergence-SW-Hackathon/PNUSW-2024-team-13/
+$ cd Server File
+$ python run_server.py
 ```
+application 다운로드 및 설치 이후 실행
 <br/>
 
 
