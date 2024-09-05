@@ -187,11 +187,12 @@
 **필요 패키지**
 - 위의 사용 기술 참고
 
-```bash
+```bash(gateway 측)
 $ git clone https://github.com/The-5th-PNU-Convergence-SW-Hackathon/PNUSW-2024-team-13/
 $ cd Server File
 $ python run_server.py
 ```
+application 다운로드 및 설치 이후 실행
 <br/>
 
 
