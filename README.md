@@ -198,7 +198,7 @@ application 다운로드 및 설치 이후 실행
 
 
 ### 5. 소개 및 시연영상
-[<img width="700px" alt="소개 및 시연영상" src="https://youtube.com/shorts/ya2jSzPEF-s?feature=share" />]
+[![Video Label](http://img.youtube.com/vi/ya2jSzPEF-s/0.jpg)](https://youtube.com/shorts/ya2jSzPEF-s?feature=share)
 
 <br/>
 
